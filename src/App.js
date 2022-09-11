@@ -9,7 +9,14 @@ export default function App() {
       <h1>Weather App</h1>
       <SearchEngine />
       <p>
-        This project was coded by Sabina and is hosted on <a href="">GitHub</a>
+        This project was coded by Sabina and is hosted on{" "}
+        <a
+          href="https://github.com/sabinabale/weather-react"
+          target="_blank"
+          rel="noreferrer"
+        >
+          GitHub
+        </a>
       </p>
     </div>
   );
